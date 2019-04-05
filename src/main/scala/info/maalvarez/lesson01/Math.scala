@@ -1,4 +1,4 @@
-package info.maalvarez
+package info.maalvarez.lesson01
 
 trait Math[A] {
   def sum(x: A, y: A): A
